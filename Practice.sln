@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "101015_TwoDimArrays", "TwoD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "171015_Arrays_2", "171015_Arrays_2\171015_Arrays_2.vcxproj", "{142C17AF-05DA-40F4-9B4E-688FD29B1FB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "241015_Structures", "241015_Structures\241015_Structures.vcxproj", "{195BC373-F941-4451-A410-6800C2297A41}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "311015_heap", "311015_heap\311015_heap.vcxproj", "{40B245E7-CF4F-41C6-A6E9-FD3DDBE5D122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +41,14 @@ Global
 		{142C17AF-05DA-40F4-9B4E-688FD29B1FB6}.Debug|Win32.Build.0 = Debug|Win32
 		{142C17AF-05DA-40F4-9B4E-688FD29B1FB6}.Release|Win32.ActiveCfg = Release|Win32
 		{142C17AF-05DA-40F4-9B4E-688FD29B1FB6}.Release|Win32.Build.0 = Release|Win32
+		{195BC373-F941-4451-A410-6800C2297A41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{195BC373-F941-4451-A410-6800C2297A41}.Debug|Win32.Build.0 = Debug|Win32
+		{195BC373-F941-4451-A410-6800C2297A41}.Release|Win32.ActiveCfg = Release|Win32
+		{195BC373-F941-4451-A410-6800C2297A41}.Release|Win32.Build.0 = Release|Win32
+		{40B245E7-CF4F-41C6-A6E9-FD3DDBE5D122}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40B245E7-CF4F-41C6-A6E9-FD3DDBE5D122}.Debug|Win32.Build.0 = Debug|Win32
+		{40B245E7-CF4F-41C6-A6E9-FD3DDBE5D122}.Release|Win32.ActiveCfg = Release|Win32
+		{40B245E7-CF4F-41C6-A6E9-FD3DDBE5D122}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
