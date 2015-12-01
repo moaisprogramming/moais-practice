@@ -1,4 +1,4 @@
-int ** generate (int n, int m);
+﻿int ** generate (int n, int m);
 
 void show ( int **matr, int nRows, int nCols );
 

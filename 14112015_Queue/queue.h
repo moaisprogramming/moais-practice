@@ -1,4 +1,4 @@
-struct node 
+﻿struct node 
 {
 	int Data;
 	struct node* Next;

@@ -1,4 +1,4 @@
-#include "Fraction.h"
+п»ї#include "Fraction.h"
 
 Fraction sum(Fraction *f1, Fraction *f2)
 {
@@ -11,7 +11,7 @@ Fraction sum(Fraction *f1, Fraction *f2)
 
 void shorten(Fraction *f)
 {
-	//Что-то....
+	//Р§С‚Рѕ-С‚Рѕ....
 }
 
 void print(Fraction *f)

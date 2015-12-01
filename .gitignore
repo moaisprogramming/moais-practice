@@ -46,3 +46,9 @@ Temporary Items
 *.lastbuildstate
 *.sdf
 *.opensdf
+*.exe
+*.pdb
+*.obj
+*.log
+*.ilk
+*.suo
