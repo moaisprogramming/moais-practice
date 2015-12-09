@@ -42,9 +42,10 @@ char* get_random_student()
 
 void main()
 {
+	srand(time(NULL));
 	setlocale(LC_ALL, "");
 	//Put your code here ...
-	printf("%s\n", get_random_student());
+	printf("%d\n", rand()%26+1 /*get_random_student()*/);
 	getchar();
 	return;
 }
